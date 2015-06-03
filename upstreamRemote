@@ -1,1 +1,5 @@
-Explain what the upstream remote is usually used for, in your own words
+Honestly, I have no fucking idea what this upstream stuff is. So I googled it, and I kind of get.. it.. now? Sigh, wasted lots of time on this
+
+So "origin" is a clone of your fork repo, from which you push and pull. "Upstream" is a name for the main repo, from where you pull and keep a clone of your fork updated, but you don't have push access to it.
+
+I guess I don't have to worry so much since I'll be using it in part 2, and the quickest way to learn is to do right? Chill and move fast Jon, you don't have time
