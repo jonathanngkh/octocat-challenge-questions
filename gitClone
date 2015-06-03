@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone copies a repository from github to your computer. it's actually carrying out mkdir gitdir, cd gitdir, git init, git remote add origin giturl, git pull, cd ..
